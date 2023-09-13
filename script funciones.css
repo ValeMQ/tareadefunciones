@@ -1,0 +1,18 @@
+calcFlujo (){
+}
+function calcFlujo(){
+    const PESO = 5
+    if (PESO<30) {
+} else {
+
+        hollidaySegar(PESO, "dsd4")
+
+
+    }
+}
+
+
+function hollidaySegar (p, x=0) {
+    console.log(p, x)
+    return p
+}
